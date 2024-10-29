@@ -9,7 +9,7 @@
 </p>
 
 <P align="center">
-<img src="https://img.zcool.cn/community/016vlxbwxt9gj18hlwf8ej3731.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_1280,limit_1/sharpen,100/quality,q_100">
+<img src="https://img.zcool.cn/community/016vlxbwxt9gj18hlwf8ej3731.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_1280,limit_1/sharpen,100/quality,q_100" width="320" height="180" />
 </p>
 
 ## Features
