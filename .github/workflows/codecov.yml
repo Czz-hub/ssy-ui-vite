@@ -2,9 +2,9 @@ name: Run tests and upload coverage
 
 on:
   push:
-    branches: [publish-ssy-ui-vite]
+    branches: [main]
   pull_request:
-    branches: [publish-ssy-ui-vite]
+    branches: [main]
 
 jobs:
   test:
