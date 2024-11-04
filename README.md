@@ -11,7 +11,9 @@
 <P align="center">
 <img src="https://img.zcool.cn/community/016vlxbwxt9gj18hlwf8ej3731.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_1280,limit_1/sharpen,100/quality,q_100" width="320" height="180" />
 </p>
-
+<a href="https://codecov.io/github/Czz-hub/ssy-ui-vite" >
+ <img src="https://codecov.io/github/Czz-hub/ssy-ui-vite/graph/badge.svg?token=ADD3LUVB1F"/>
+ </a>
 ## Features
  - 基于 Vue 框架
  - 支持 JSX 与 Vue 单文件组件
