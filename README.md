@@ -11,6 +11,7 @@
 <P align="center">
 <img src="https://img.zcool.cn/community/016vlxbwxt9gj18hlwf8ej3731.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_1280,limit_1/sharpen,100/quality,q_100" width="320" height="180" />
 </p>
+[![codecov](https://codecov.io/github/Czz-hub/ssy-ui-vite/graph/badge.svg?token=ADD3LUVB1F)](https://codecov.io/github/Czz-hub/ssy-ui-vite)
 <a href="https://codecov.io/github/Czz-hub/ssy-ui-vite" >
  <img src="https://codecov.io/github/Czz-hub/ssy-ui-vite/graph/badge.svg?token=ADD3LUVB1F"/>
  </a>
